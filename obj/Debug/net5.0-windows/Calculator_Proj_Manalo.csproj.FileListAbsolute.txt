@@ -5,7 +5,6 @@ C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\bin\Debug\net5.0-windo
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\bin\Debug\net5.0-windows\Calculator_Proj_Manalo.dll
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\bin\Debug\net5.0-windows\ref\Calculator_Proj_Manalo.dll
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\bin\Debug\net5.0-windows\Calculator_Proj_Manalo.pdb
-C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\Calculator_Proj_Manalo.csprojAssemblyReference.cache
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\Calculator_Proj_Manalo.Form1.resources
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\Calculator_Proj_Manalo.Properties.Resources.resources
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\Calculator_Proj_Manalo.csproj.GenerateResource.cache
@@ -17,3 +16,4 @@ C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windo
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\ref\Calculator_Proj_Manalo.dll
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\Calculator_Proj_Manalo.pdb
 C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\Calculator_Proj_Manalo.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Calc.OOP\Calculator_Proj_Manalo\obj\Debug\net5.0-windows\Calculator_Proj_Manalo.csproj.AssemblyReference.cache
