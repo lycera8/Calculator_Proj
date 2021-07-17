@@ -384,6 +384,7 @@ namespace Calculator_Proj_Manalo
             this.ForeColor = System.Drawing.Color.Black;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Location = new System.Drawing.Point(2, 4);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Calculator";
             this.TopMost = true;
